@@ -1,2 +1,2 @@
-istio-terraform/.terraform/*
-istio-terraform/.terraform.*
+./istio-terraform/.terraform/*
+./istio-terraform/.terraform.*
