@@ -1,2 +1,2 @@
 ./istio-terraform/.terraform/*
-./istio-terraform/test.yaml
+istio-terraform/test2.yaml
